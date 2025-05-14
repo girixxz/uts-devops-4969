@@ -1,2 +1,2 @@
 # uts-devops-4969
-## CHECK BRANCH 'deevelopment' sir
+## CHECK BRANCH 'development' sir
